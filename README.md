@@ -1,2 +1,2 @@
 # huslo
-Huslo is the official brand for Hustlers Dev.
+> Huslo is the official brand for Hustlers Dev.
